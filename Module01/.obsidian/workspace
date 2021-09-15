@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "75a70bd7f91e022c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d113b1387d951cd2",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Analitical solution.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d0836a25ab46d10",
+    "type": "split",
+    "children": [
+      {
+        "id": "43716bbddf3a98a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2d4b2069eb2727",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "554073b10661619a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "064a4e7f5c65fe43",
+    "type": "split",
+    "children": [
+      {
+        "id": "be5545d4acab5888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f902d9c789434db7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Analitical solution.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d113b1387d951cd2",
+  "lastOpenFiles": [
+    "Analitical solution.png"
+  ]
+}
