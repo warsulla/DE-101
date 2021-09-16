@@ -36,4 +36,4 @@
 
 ## Google Data Studio: подключение к БД в AWS RDS и создание дашборда
 
-[Дашборд в Data Studio](https://datastudio.google.com/reporting/ef9fef9b-5892-434d-8f2c-3214bc23d2be)
+[Дашборд в Data Studio](https://datastudio.google.com/reporting/82d15543-049b-4bf0-9363-f8c47e3bc8d0)
