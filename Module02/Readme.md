@@ -31,8 +31,8 @@
 - [x] Создаем учетную запись в AWS.
 - [x] Используя сервис AWS RDS создаём БД PostgreSQL и настраиваем к ней доступ.
 - [x] Подключаемся к новой БД через SQL клиент (DBeaver) и загружаем данные из модуля 2.3 (Superstore dataset):
-  - [x] В staging (схема БД stg) — [stg.orders.sql](https://github.com/a2say/DE-101/blob/main/Module02/stg.orders.sql)
-  - [x] В Business Layer (схема БД dw) — [from_stg_to_dw.sql](https://github.com/a2say/DE-101/blob/main/Module02/from_stg_to_dw.sql)
+  - [x] В staging (схема БД stg) — [stg.orders.sql](https://github.com/warsulla/DE-101/blob/main/Module02/stg.orders.sql)
+  - [x] В Business Layer (схема БД dw) — [from_stg_to_dw.sql](https://github.com/warsulla/DE-101/blob/main/Module02/from_stg_to_dw.sql)
 
 ## Google Data Studio: подключение к БД в AWS RDS и создание дашборда
 
